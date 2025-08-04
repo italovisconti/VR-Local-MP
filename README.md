@@ -1,4 +1,4 @@
-### Virtual Reality Local Multiplayer Template - Unity
+# Virtual Reality Local Multiplayer Template - Unity
 
 Currently, there is no easy way to develop LAN Multiplayer Virtual Reality games with Unity. Unity offers the 'VR MP Template' which is tightly coupled to the Unity Relay service (for internet-based game).
 
